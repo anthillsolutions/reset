@@ -1,0 +1,17 @@
+{
+  "name": "anthillsolutions-reset",
+  "version": "1.0.0",
+  "description": "List of common css rules",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthillsolutions/reset.git"
+  },
+  "author": "anthillsolutions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthillsolutions/reset/issues"
+  },
+  "homepage": "https://github.com/anthillsolutions/reset#readme"
+}
